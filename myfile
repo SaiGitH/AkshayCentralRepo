@@ -1,6 +1,13 @@
 This is my first code, and first line from the Mumbai
 this is my second code, and second line from the Mumbai
 this is my third code, and third line from the mumbai
+<<<<<<< HEAD
 this is forth code, and forth line from the London.
 please check this is new code, if any mistake then try to 
 resolve it and give update to me. thanks..!!
+=======
+this is my forth code, and forth line from the mumbai
+this is my fifth code, and fifth line from the Mumbia-Git
+please check and confirm once you got the code and if found any mistake then 
+corect it as your own way. thanks.. !!
+>>>>>>> c4ac5f92043a6d92ce941a280d55c85400bbd064
